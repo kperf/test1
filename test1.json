@@ -1,5 +1,5 @@
 {
-"customers" : {
+
       "type" : "object",
       "description": "customer object",
       "properties": {
@@ -13,5 +13,5 @@
                   "type" : "string"
                   }
                }
-            }
+            
 }
