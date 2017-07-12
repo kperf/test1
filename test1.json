@@ -1,0 +1,17 @@
+{
+"customers" : {
+      "type" : "object",
+      "description": "customer object",
+      "properties": {
+            "firstname" : {
+                  "type" : "string"
+                  },
+            "lastname" : {
+                  "type" : "string"
+                  },
+            "customerId" : {
+                  "type" : "string"
+                  }
+               }
+            }
+}
